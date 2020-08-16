@@ -11,3 +11,6 @@ var functionMain2 = function() {
 var functionMain3 = function() {
     console.log("Buoi3");
 }
+var functionMain3 = function() {
+    console.log("Buoi333333333333");
+}
