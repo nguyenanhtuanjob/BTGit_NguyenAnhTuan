@@ -7,3 +7,7 @@ var functionMain1 = function() {
 var functionMain2 = function() {
     console.log("Buoi2");
 }
+
+var functionMain2 = function() {
+    console.log("Buoi2222222222");
+}
